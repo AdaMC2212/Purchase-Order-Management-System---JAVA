@@ -1,0 +1,7 @@
+I0004|Milo|Beverage|1000|S0003|GG Company|3.0|2.4
+I0003|100Plus|Beverage|100|S0001|TT Sdn. Bhd.|2.8|2.0
+I0002|Coke|Beverage|201|S0001|TT Sdn. Bhd.|2.5|1.8
+I0005|Ayam Goreng|Meat|55|S0004|CM Sdn.Bhd|7.5|5.0
+I0001|Teh|Beverage|179|S0001|TT Sdn. Bhd.|2.2|1.5
+I0007|Super Ring|Snack|100|S0003|GG Company|3.0|2.5
+I0006|Mamee|Snack|30|S0004|AA Sdn.Bhd|2.5|2.0

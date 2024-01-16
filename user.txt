@@ -1,0 +1,5 @@
+U0004|Chin Yu Shyang|123456|cys@mail.com|0123456780|Admin
+U0005|Tuam Chun Wai|123456|tcw@mail.com|0122100122|SalesManager
+U0003|Chan Chun Ming|1234567|c@gmail.com|0000000000|PurchaseManager
+U0001|Chia Yong Xiang|123456|chia@gmail.com|0102880720|Admin
+U0002|Fong Yan Yang|456456|fyy@gmail.com|0111111111|SalesManager

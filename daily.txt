@@ -1,0 +1,4 @@
+7/9/2023|I0001|Milo|Beverage|S0001|TT Sdn. Bhd|5.99|30|179.7
+7/9/2023|I0003|Horlick|Beverage|S0002|CC Sdn. Bhd.|5.99|20|119.8
+9/9/2023|I0001|Teh|Beverage|S0001|TT Sdn. Bhd.|2.2|20|44.0
+1/1/2000|I0006|Mamee|Snack|S0004|AA Sdn.Bhd|2.5|20|50.0

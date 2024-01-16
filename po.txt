@@ -1,0 +1,2 @@
+PR001|I0001|Teh|Beverage|S0001|TT Sdn. Bhd.|1.5|10|15.0|U0001|Approved|U0001
+PR002|I0005|Ayam Goreng|Meat|S0004|CM Sdn.Bhd|5.0|30|150.0|U0001|Approved|U0001
