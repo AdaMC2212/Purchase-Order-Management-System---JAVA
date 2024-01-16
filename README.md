@@ -1,8 +1,6 @@
 # Sigma SDN BHD PURCHASE ORDER MANAGEMENT SYSTEM (POM)
 This is a purchase order management system developed with Java Programming and applied OOP concepts.
 
-Group Member : <a href="https://github.com/YFShADoW">**Yao Feng**</a>, <a href="https://github.com/wlynnn">**wlynnn**</a> , <a href="https://github.com/shuqin218">**shuqin218**</a> 
-
 
 ## Object Oriented Development with Java
 - Developed a GUI Purchase Order Management System with keys feature for Admin, Sale Manager and Purchase Manager.
